@@ -73,7 +73,7 @@ Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element, seper
 
 Berikut tampilan pada Browser :
 
-![img](Gambar/ss1.jpg)
+![img](Gambar/ss1.png)
 
 
 **Box Element Float**<br>
@@ -101,7 +101,7 @@ Kemudian atur property clear pada CSS, seperti berikut.<br>
 
 Selanjutnya buka browser dan refresh kembali.<br>
 
-![img](Gambar/ss2.jpg)
+![img](Gambar/ss2.png)
 
 
 Buat **folder baru** dengan nama **lab4_layout**, kemudian buatlah file baru didalamnya dengan nama 
@@ -146,7 +146,7 @@ Kemudian tulis kode berikut.<br>
 
 Kemudian buka browser dan lihat hasilnya.<br>
 
-![img](Gambar/ss3.jpg)
+![img](Gambar/ss3.png)
 
 Gambar 05.Tampilan Kerangka Layout
 
@@ -184,10 +184,10 @@ header h1 {
  color: #b5b5b5;
 }
 ```
-![img](Gambar/ss5.jpg)
+![img](Gambar/ss5.png)
 
 Kemudian lihat hasilnya pada browser<br>
-![img](Gambar/ss4.jpg)
+![img](Gambar/ss4.png)
 
 Gambar 06.Tampilan Header Layout
 
@@ -216,7 +216,7 @@ nav a:hover {
 
 Kemudian lihat hasilnya.<br>
 
-![img](Gambar/ss6.jpg)
+![img](Gambar/ss6.png)
 
 Gambar 07.Tampilan navigasi
 
@@ -253,7 +253,7 @@ pretium ac.</p>
 
 Berikut tampilan pada Browser :<br>
 
-![img](Gambar/ss7.jpg)
+![img](Gambar/ss7.png)
 
 Gambar 08.Tampilan Hero Panel.
 
@@ -332,11 +332,11 @@ Kemudian tambahkan CSS.<br>
  line-height:25px;
 }
 ```
-![04_Lab4Web](Gambar/ss9.jpg)
+![04_Lab4Web](Gambar/ss9.png)
 
 Berikut tampilan pada Browser :<br>
 
-![04_Lab4Web](Gambar/ss8.jpg)
+![04_Lab4Web](Gambar/ss8.png)
 
 Gambar 09.Tampilan Sidebar Widget
 
@@ -354,7 +354,7 @@ footer {
 
 Berikut tampilan pada Browser :<br>
 
-![04_Lab4Web](Gambar/ss10.jpg)
+![04_Lab4Web](Gambar/ss10.png)
 
 Gambar 10.Tampilan Footer
 
@@ -437,7 +437,7 @@ box img {
 
 Berikut tampilan pada Browser :<br>
 
-![04_Lab4Web](Gambar/ss11.jpg)
+![04_Lab4Web](Gambar/ss11.png)
 
 Gambar 11.Tampilan Content
 
@@ -491,11 +491,11 @@ Kemudian tambahkan CSS.<br>
  float: right;
 }
 ```
-![04_Lab4Web](Gambar/ss12.jpg)
+![04_Lab4Web](Gambar/ss12.png)
 
 Berikut tampilan pada Browser :<br>
 
-![04_Lab4Web](Gambar/ss13.jpg)
+![04_Lab4Web](Gambar/ss13.png)
 
 Gambar 12.Tampilan artikel
 
@@ -506,18 +506,18 @@ Gambar 12.Tampilan artikel
  >**Jawab:**
  > Membuat dokumen HTML dengan nama file about.html :<br>
  > Kemudian tambahkan CSS.<br>
- > ![04_Lab4Web](Gambar/ss17.jpg)<br>
+ > ![04_Lab4Web](Gambar/ss17.png)<br>
  > Berikut tampilan pada Browser :<br>
- > ![04_Lab4Web](Gambar/ss18.jpg)<br>
+ > ![04_Lab4Web](Gambar/ss18.png)<br>
  
 2. Tambahkan layout untuk menu Contact<br>
 => yang berisi form isian: nama, email, message, dll.<br>
  >**Jawab:**
  > > Membuat dokumen HTML dengan nama file kontak.html :<br>
  > Kemudian tambahkan CSS.<br>
- > ![04_Lab4Web](Gambar/ss15.jpg)<br>
+ > ![04_Lab4Web](Gambar/ss15.png)<br>
  > Berikut tampilan pada Browser :<br>
- > ![04_Lab4Web](Gambar/ss16.jpg)<br>>
+ > ![04_Lab4Web](Gambar/ss16.png)<br>>
 
 Cukup sekian Penjelasan dari saya.
 
